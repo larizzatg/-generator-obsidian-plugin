@@ -1,5 +1,6 @@
 "use strict";
 const path = require("path");
+// Comment this until learn to test
 // const assert = require("yeoman-assert");
 const helpers = require("yeoman-test");
 
